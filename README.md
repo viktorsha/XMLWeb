@@ -1,5 +1,5 @@
 # XMLWeb
-This is a web app that parses xml and displays them on a page.
+This is a web app that parses xml and displays data on a page.
 
 - Authorization and signing up are implemented in the program, as well as sessions to control the current user session and don't give acces to the parsing without logging in.
 - Such design patterns as Factory, Singleton, Repository and Service locator were used
